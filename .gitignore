@@ -1,0 +1,6 @@
+.venv/
+data/
+utils/
+*_thesis*
+scripts/
+models/
